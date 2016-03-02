@@ -91,3 +91,9 @@ fieldset .h3 {
      max-height: 500px;
      overflow: auto;
 }
+
+.wb-wrp {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+}
